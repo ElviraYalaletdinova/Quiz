@@ -1,0 +1,1 @@
+Quiz is a mobile app for testing knowledge (for example, how well you know your favorite movies and TV shows). The questions and answers are stored in a JSON file, so the game doesn’t require a database connection.
